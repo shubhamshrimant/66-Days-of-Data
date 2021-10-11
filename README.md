@@ -7,4 +7,3 @@ know but by taking care of even smaller things. This repository focuses on data,
 the data and find patterns.
 </h3>
 
-Readme needs to be updated. #hacktoberfest
