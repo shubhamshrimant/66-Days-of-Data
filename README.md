@@ -6,3 +6,5 @@
 know but by taking care of even smaller things. This repository focuses on data, so in any code, the priority is to clean
 the data and find patterns.
 </h3>
+
+Readme needs to be updated. #hacktoberfest
